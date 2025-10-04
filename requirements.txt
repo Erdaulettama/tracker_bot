@@ -1,0 +1,4 @@
+aiogram==3.12.0
+asyncpg
+apscheduler
+python-dotenv
